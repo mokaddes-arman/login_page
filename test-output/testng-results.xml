@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T22:53:16 BDT" name="Default suite" finished-at="2023-12-26T22:55:05 BDT" duration-ms="108733">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T22:53:16 BDT" name="Default test" finished-at="2023-12-26T22:55:05 BDT" duration-ms="108733">
+      <class name="Task_Nitex.Login_script.Positive_Login_Test">
+        <test-method is-config="true" signature="setUpDriverLink()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:53:16 BDT" name="setUpDriverLink" finished-at="2023-12-26T22:53:43 BDT" duration-ms="26625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriverLink -->
+        <test-method signature="VerifyWithInValidEmail()[pri:1, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:53:43 BDT" name="VerifyWithInValidEmail" finished-at="2023-12-26T22:53:43 BDT" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWithInValidEmail -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:53:43 BDT" name="driverClose" finished-at="2023-12-26T22:53:43 BDT" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method is-config="true" signature="setUpDriverLink()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:53:43 BDT" name="setUpDriverLink" finished-at="2023-12-26T22:54:08 BDT" duration-ms="24221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriverLink -->
+        <test-method signature="VerifyWithInvalidPassword()[pri:2, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:54:08 BDT" name="VerifyWithInvalidPassword" finished-at="2023-12-26T22:54:08 BDT" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWithInvalidPassword -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:54:08 BDT" name="driverClose" finished-at="2023-12-26T22:54:08 BDT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method is-config="true" signature="setUpDriverLink()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:54:08 BDT" name="setUpDriverLink" finished-at="2023-12-26T22:54:35 BDT" duration-ms="26740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriverLink -->
+        <test-method signature="VerifyWithValidCred()[pri:3, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:54:35 BDT" name="VerifyWithValidCred" finished-at="2023-12-26T22:54:42 BDT" duration-ms="6556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWithValidCred -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:54:42 BDT" name="driverClose" finished-at="2023-12-26T22:54:42 BDT" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method is-config="true" signature="setUpDriverLink()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:54:42 BDT" name="setUpDriverLink" finished-at="2023-12-26T22:55:04 BDT" duration-ms="22058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriverLink -->
+        <test-method signature="VerifyWithDriverBackButton()[pri:4, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:55:04 BDT" name="VerifyWithDriverBackButton" finished-at="2023-12-26T22:55:05 BDT" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWithDriverBackButton -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:Task_Nitex.Login_script.Positive_Login_Test@245b4bdc]" started-at="2023-12-26T22:55:05 BDT" name="driverClose" finished-at="2023-12-26T22:55:05 BDT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- Task_Nitex.Login_script.Positive_Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
