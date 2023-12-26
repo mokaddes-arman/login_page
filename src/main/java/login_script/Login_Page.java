@@ -1,4 +1,4 @@
-package Task_Nitex.Login_script;
+package login_script;
 
 
 import org.openqa.selenium.By;

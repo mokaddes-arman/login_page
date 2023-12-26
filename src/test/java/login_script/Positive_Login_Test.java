@@ -1,4 +1,4 @@
-package Task_Nitex.Login_script;
+package login_script;
 
 import java.time.Duration;
 import org.openqa.selenium.WebDriver;
